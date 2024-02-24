@@ -8,6 +8,7 @@
 </p>
 
 
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joeaelkhoury&theme=github" alt="Profile Details"/>
 <div style="display: flex; justify-content: center;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joeaelkhoury&theme=github" alt="Most Commit Language" style="width: 45%;"/>
@@ -24,3 +25,8 @@
 
 
 ![](https://raw.githubusercontent.com/joeaelkhoury/joeaelkhoury/output/github-contribution-grid-snake.svg)
+
+
+<!--Graph-->
+![](https://github-readme-activity-graph.vercel.app/graph?username=joeaelkhoury&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+
